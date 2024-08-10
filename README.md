@@ -1,3 +1,12 @@
+# ---------------------------
+
+Seems like tags don't work in the hertzg/node-xhb so aiming to fix that here
+
+
+
+
+# ---------------------------
+
 # XHB file read/write for NodeJS
 
 This package provides ability to read and modify xhb files created by HomeBank in somewhat sane manner.
